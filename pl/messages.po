@@ -2548,7 +2548,7 @@ msgstr ""
 
 #: src/components/_user/user/UserHeader.tsx:322
 msgid "Citizen since"
-msgstr ""
+msgstr "Obywatel od"
 
 #: src/components/_political/country/CountryHeader.tsx:144
 #: src/components/_political/country/CountryHeader.tsx:191
@@ -3238,19 +3238,19 @@ msgstr "Ciemna mapa"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:149
 msgid "Deal <0/> for allies or your country"
-msgstr ""
+msgstr "Zadaj <0/> dla sojuszników bądź Twojego kraju"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:129
 msgid "Deal <0/> in battles"
-msgstr ""
+msgstr "Zadaj <0/> w bitwach"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:139
 msgid "Deal <0/> on country/mu orders"
-msgstr ""
+msgstr "Zadaj <0/> z rozkazów państwa/JW"
 
 #: src/components/_user/user/MilitaryRank.tsx:85
 msgid "Deal <0>damages</0> in battles to climb the ranks!"
-msgstr ""
+msgstr "Zadaj <0>damages</0> w bitwach, żeby osiągnąć rangę!"
 
 #: src/components/_user/user/MilitaryRanksInfoModal.tsx:94
 msgid "Deal damage in battles to increase your military rank and unlock attack bonuses."
@@ -3258,7 +3258,7 @@ msgstr "Zadawaj obrażenia w bitwach, aby zwiększyć swoją rangę wojskową i 
 
 #: src/components/_military/mu/MuLevelsInfoModal.tsx:118
 msgid "Deal damage in battles with your MU members to level up each month and earn rewards. Resets on the 1st of each month."
-msgstr ""
+msgstr "Zadawaj obrażenia w bitwach wraz z członkami twojej JW, aby osiągać wyższe poziomy każdego miesiąca i zdobywać nagrody. Resetuje się 1. każdego miesiąca."
 
 #: src/components/_user/mission/mission.frontConfig.tsx:127
 msgid "Deal Damages"
@@ -3719,7 +3719,7 @@ msgstr "Edytuj opis"
 
 #: src/components/_military/battle/BattleOrderActionsDropdown.tsx:149
 msgid "Edit MU order"
-msgstr ""
+msgstr "Edytuj rozkaz JW"
 
 #: src/components/_user/worker/WorkerEditFormModal.tsx:154
 msgid "Edit worker"
@@ -3727,11 +3727,11 @@ msgstr "Edytuj pracownika"
 
 #: src/components/_military/battle/SetOrderFormModal.tsx:492
 msgid "Editing an existing order"
-msgstr ""
+msgstr "Edytuj istniejący rozkaz"
 
 #: src/components/_military/battle/SetOrderFormModal.tsx:490
 msgid "Editing another order"
-msgstr ""
+msgstr "Edytuj inny rozkaz"
 
 #: src/components/_user/user/SkillValue.tsx:260
 msgid "Effective:"
@@ -3759,7 +3759,7 @@ msgstr "Wybory"
 
 #: src/components/_military/tournament/TournamentTeamHeader.tsx:43
 msgid "Eliminated"
-msgstr ""
+msgstr "Wyeleminowany"
 
 #: src/utils/translations.tsx:207
 msgid "Elite Boots"
@@ -3873,7 +3873,7 @@ msgstr "Wyposażenie"
 
 #: src/components/_user/user/SkillValue.tsx:103
 msgid "Equipment:"
-msgstr ""
+msgstr "Wyposażenie"
 
 #: src/components/_economy/market/MarketHeader.tsx:20
 msgid "Equipments"
@@ -3885,16 +3885,16 @@ msgstr "Błąd"
 
 #: src/components/_economy/workOffer/EstimatedCompanyBenefit.tsx:103
 msgid "Estimated benefit per"
-msgstr ""
+msgstr "Szacowany zysk na"
 
 #: src/components/_military/battle/BattleSystem.tsx:475
 #: src/components/_military/battle/BattleSystem.tsx:512
 msgid "Estimated minimum time for this side to win the current round if all ticks are won."
-msgstr ""
+msgstr "Szacowany minimalny czas do zwycięstwa tej strony w obecnej rundzie, jeśli wszystkie tiki będą wygrane."
 
 #: src/components/_economy/company/CompanyHeader.tsx:41
 msgid "Estimated value"
-msgstr ""
+msgstr "Szacowana wartość"
 
 #: src/pages/party/[partyId]/index.tsx:57
 msgid "Ethics"
@@ -4111,7 +4111,7 @@ msgstr "Bonus lojalnościowy"
 
 #: src/components/_economy/workOffer/EstimatedCompanyBenefit.tsx:164
 msgid "Fidelity bonus:"
-msgstr ""
+msgstr "Bonus lojalnościowy:"
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:159
 msgid "Fight for <0/> in <1/>"
@@ -4235,7 +4235,7 @@ msgstr "Styl czcionki"
 
 #: src/components/_user/user/UserFontSelector.tsx:72
 msgid "Font updated"
-msgstr ""
+msgstr "Czcionka zaktualizowana"
 
 #. placeholder {0}: ts[country.specializedItem]
 #: src/pages/country/[countryId]/index.tsx:369
@@ -4248,7 +4248,7 @@ msgstr ""
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:45
 msgid "Founding Father"
-msgstr ""
+msgstr "Ojciec Założyciel"
 
 #: src/pages/shop/index.tsx:131
 msgid "Free daily reward"
@@ -4256,7 +4256,7 @@ msgstr "Darmowa dzienna nagroda"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:49
 msgid "Full throttle, no brakes"
-msgstr ""
+msgstr "Pełen gaz, bez hamulców"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:27
 msgid "Fun fact: The house always wins"
@@ -4300,7 +4300,7 @@ msgstr "Klejnoty służą do kupowania przedmiotów w sklepie i obdarowywania in
 
 #: src/components/_user/user/UserRankingsPanel.tsx:110
 msgid "Gems purchased"
-msgstr ""
+msgstr "Klejnoty zakupione"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:148
 msgid "General"
@@ -4321,7 +4321,7 @@ msgstr ""
 
 #: src/components/_other/shop/SkinCollectionModal.tsx:94
 msgid "Get multiple skins at once with a 30% discount!"
-msgstr ""
+msgstr "Zdobądź wiele skórek jednocześnie z 30% obniżką"
 
 #: src/components/_economy/inventory/DismantleModal.tsx:221
 msgid "Get supporter plan"
@@ -4345,7 +4345,7 @@ msgstr "Podaruj plan wspierającego"
 
 #: src/components/_other/shop/SkinPackModal.tsx:224
 msgid "Gift this pack to someone"
-msgstr ""
+msgstr "Podaruj komuś tę paczkę"
 
 #: src/pages/shop/index.tsx:103
 msgid "gifted"
@@ -4630,7 +4630,7 @@ msgstr "Uderz"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:119
 msgid "Hit <0/> times in battles"
-msgstr ""
+msgstr "Uderz <0/> razy w bitwach"
 
 #. placeholder {0}: staticGameConfig.battle.govMemberBountyRewardPercent
 #: src/components/_military/battle/BattleSystem.tsx:820
@@ -5017,11 +5017,11 @@ msgstr ""
 
 #: src/components/_user/user/UserHeader.tsx:357
 msgid "Last connection"
-msgstr ""
+msgstr "Ostatnie połączenie"
 
 #: src/components/_user/badgeCollection/Badge.tsx:69
 msgid "Last earned: <0/>"
-msgstr ""
+msgstr "Ostatnio zdobyte <0/>"
 
 #: src/pages/shop/index.tsx:91
 msgid "Last gifts"
@@ -5031,7 +5031,7 @@ msgstr "Ostatnie prezenty"
 #: src/components/_user/auth/ConnectFromModal.tsx:358
 #: src/components/_user/auth/ConnectFromModal.tsx:396
 msgid "Last used"
-msgstr ""
+msgstr "Ostatnio użyty"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:192
 msgid "Last used:"
@@ -5093,16 +5093,16 @@ msgstr "Zrezygnuj"
 
 #: src/components/_political/law/law.frontConfig.tsx:359
 msgid "Leave <0/>"
-msgstr ""
+msgstr "Opuść <0/>"
 
 #: src/components/_political/law/law.frontConfig.tsx:368
 msgid "Leave <0/>."
-msgstr ""
+msgstr "Opuść <0/>."
 
 #: src/components/_political/law/law.frontConfig.tsx:353
 #: src/components/_political/law/lawNames.tsx:26
 msgid "Leave alliance"
-msgstr ""
+msgstr "Opuść sojusz"
 
 #: src/components/_user/worker/WageReductionAlert.tsx:55
 msgid "Leave company?"
@@ -5149,12 +5149,12 @@ msgstr "Legendarne Spodnie"
 #: src/components/_military/mu/MuLevel.tsx:64
 #: src/components/_military/mu/MuLevelsInfoModal.tsx:89
 msgid "Level {level}"
-msgstr ""
+msgstr "Poziom {level}"
 
 #: src/components/_political/election/Election.tsx:132
 #: src/components/_political/election/Election.tsx:224
 msgid "Level too low"
-msgstr ""
+msgstr "Poziom za niski"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:105
 msgid "Level up your skills!"
@@ -5166,7 +5166,7 @@ msgstr "Awans na wyższy poziom!"
 
 #: src/components/_political/law/law.frontConfig.tsx:498
 msgid "Liberate <0/>"
-msgstr ""
+msgstr "Wyzwól <0/>"
 
 #: src/components/_political/law/law.frontConfig.tsx:507
 msgid "Liberate <0/> and return it to its original country"
@@ -5183,11 +5183,11 @@ msgstr "Porucznik"
 
 #: src/components/_user/milestone/MilestonesList.tsx:46
 msgid "Lifetime goals, and how far this player got on each."
-msgstr ""
+msgstr "Cele długoterminowe, i jak daleko gracz w nich zaszedł."
 
 #: src/components/_user/milestone/MilestonesList.tsx:41
 msgid "Lifetime goals. Reach a tier, claim its XP, and the next one unlocks right away."
-msgstr ""
+msgstr "Cele długoterminowe. Osiągnij stopień, zdobądź XP, a następny stopień natychmiast się odblokuje"
 
 #: src/components/_political/law/LawFormModal.tsx:216
 #: src/components/_political/law/LawFormModal.tsx:294
@@ -5200,11 +5200,11 @@ msgstr "Lekka Amunicja"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:343
 msgid "Like <0/> articles"
-msgstr ""
+msgstr "Polub <0/> artykułów"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:429
 msgid "Like <0/> messages"
-msgstr ""
+msgstr "Polub <0/> wiadomości"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:341
 msgid "Like Article"
@@ -5224,7 +5224,7 @@ msgstr "Limit spożycia jedzenia"
 
 #: src/components/_economy/company/CompanyList.tsx:181
 msgid "Limit reached"
-msgstr ""
+msgstr "Limit osiągnięty"
 
 #: src/components/_user/user/SkillValue.tsx:118
 msgid "Limited:"
@@ -5282,11 +5282,11 @@ msgstr ""
 
 #: src/components/_user/mission/mission.frontConfig.tsx:323
 msgid "Loot <0/> in battles"
-msgstr ""
+msgstr "Łup w <0/> bitwach"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:333
 msgid "Loot <0/> items on battlefield"
-msgstr ""
+msgstr "Złupiono <0/> przedmiotów na polu bitwy"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:321
 msgid "Loot Cases"
@@ -5303,7 +5303,7 @@ msgstr ""
 
 #: src/components/_military/damageRanking/BattleLoot.tsx:130
 msgid "Loots"
-msgstr ""
+msgstr "Łupy"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:23
 msgid "Love Paper Jet"
@@ -5357,7 +5357,7 @@ msgstr "mapa"
 #: src/components/_layout/LayoutLeftIcons.tsx:157
 #: src/components/_layout/LayoutOptions.tsx:106
 msgid "Map"
-msgstr ""
+msgstr "Mapa"
 
 #: src/components/_political/law/LawFormModal.tsx:213
 #: src/components/_political/law/LawFormModal.tsx:291
@@ -5366,7 +5366,7 @@ msgstr "Akcent mapy"
 
 #: src/components/_layout/LayoutOptions.tsx:148
 msgid "Map icons"
-msgstr ""
+msgstr "Ikony mapy"
 
 #: src/components/_economy/market/MarketHeader.tsx:38
 #: src/components/_layout/LayoutMenu.tsx:163
@@ -5391,7 +5391,7 @@ msgstr ""
 
 #: src/components/_military/mu/MuLevel.tsx:81
 msgid "Max level reached!"
-msgstr ""
+msgstr "Maksymalny poziom osgiąnięty!"
 
 #: src/components/_military/tournament/TournamentHeader.tsx:112
 #: src/components/_military/tournament/TournamentRegistrationPanel.tsx:85
@@ -5603,7 +5603,7 @@ msgstr ""
 #: src/components/_user/mission/MissionsHeader.tsx:82
 #: src/components/_user/user/UserRankingsPanel.tsx:86
 msgid "Milestone tiers"
-msgstr ""
+msgstr "Stopnie celów długoterminowych"
 
 #: src/components/_user/mission/MissionsHeader.tsx:87
 msgid "Milestone tiers you claimed, across every ladder"
@@ -5613,7 +5613,7 @@ msgstr ""
 #: src/components/_user/user/UserHeader.tsx:231
 #: src/pages/user/[userId]/milestones.tsx:20
 msgid "Milestones"
-msgstr ""
+msgstr "Cele długoterminowe"
 
 #: src/components/_user/notification/notificationPrefs.categories.ts:159
 msgid "Military & Battles"
@@ -5644,7 +5644,7 @@ msgstr "Awans wojskowy!"
 
 #: src/components/_user/user/SkillValue.tsx:214
 msgid "Military rank:"
-msgstr ""
+msgstr "Ranga wojskowa:"
 
 #: src/components/_user/user/MilitaryRanksInfoModal.tsx:88
 msgid "Military Ranks"
@@ -7054,12 +7054,12 @@ msgstr "Profil"
 #: src/components/_layout/MoreButtonNav.tsx:100
 #: src/components/_user/mission/MissionsHeader.tsx:49
 msgid "Progression"
-msgstr ""
+msgstr "Postęp"
 
 #: src/components/_military/mu/MuMemberList.tsx:146
 #: src/components/_military/mu/MuMemberList.tsx:434
 msgid "Promote to Commander"
-msgstr ""
+msgstr "Awansuj na Dowódcę"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2118
 msgid "Promoted to Commander"
@@ -7187,7 +7187,7 @@ msgstr "Rankingi"
 
 #: src/components/_layout/LayoutRightIcons.tsx:228
 msgid "Ranks"
-msgstr "Rangi"
+msgstr "Ranking"
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:175
 msgid "Rate"
@@ -9309,7 +9309,7 @@ msgstr "użytkownik"
 
 #: src/components/_user/notification/notificationPrefs.categories.ts:153
 msgid "User & Progression"
-msgstr ""
+msgstr "Użytkownik i Postęp"
 
 #: src/components/_other/shop/SkinPackModal.tsx:267
 msgid "User already owns all skins"
@@ -9788,7 +9788,7 @@ msgstr "XP"
 
 #: src/components/_user/mission/MissionsHeader.tsx:92
 msgid "XP earned"
-msgstr ""
+msgstr "XP zdobyte"
 
 #. placeholder {0}: companiesLimit ?? 1
 #: src/components/_economy/company/CompanyDropdown.tsx:276
@@ -10303,7 +10303,7 @@ msgstr ""
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1725
 msgid "Your monthly missions have been reset! Complete them to earn rewards."
-msgstr ""
+msgstr "Twoje misje miesięczne zostały zresetowane! Ukończ je, aby zdobyć nagrody."
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:49
 msgid "Your MU has <0/> reputation and cannot bid on mercenary contracts. Pay to buy back reputation (once per day)."
