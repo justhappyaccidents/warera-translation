@@ -2273,16 +2273,16 @@ msgstr "Utwórz jednostkę wojskową"
 
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:31
 msgid "Bunker"
-msgstr ""
+msgstr "Bunkier"
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:71
 msgid "Buy <0/>"
-msgstr ""
+msgstr "Kup <0/>"
 
 #. placeholder {0}: law.data.amount ?? 0
 #: src/components/_political/law/law.frontConfig.tsx:471
 msgid "Buy <0/> from <1/> for <2>{0}</2>"
-msgstr ""
+msgstr "Kup <0/> od <1/> dla <2>{0}</2>"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:189
 msgid "Buy for <0/> money on market"
@@ -2338,7 +2338,7 @@ msgstr "Anuluj w każdej chwili"
 #: src/components/_military/mercenaryContract/AdminDeleteContractModal.tsx:43
 #: src/components/_military/mercenaryContract/AdminDeleteContractModal.tsx:64
 msgid "Cancel Contract"
-msgstr ""
+msgstr "Anuluj Kontrakt"
 
 #: src/components/_military/mercenaryContract/MercenaryContractItem.tsx:84
 #: src/components/_military/mercenaryContract/MercenaryContractModal.tsx:63
@@ -2350,19 +2350,19 @@ msgstr ""
 #: src/pages/events/index.tsx:156
 #: src/utils/translations.tsx:267
 msgid "Cancelled"
-msgstr ""
+msgstr "Anulowany"
 
 #: src/utils/translations.tsx:268
 msgid "Cancelled by admin"
-msgstr ""
+msgstr "Anulowany przez admina"
 
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:238
 msgid "Cancelled by Admin"
-msgstr ""
+msgstr "Anulowany przez admina"
 
 #: src/components/_political/message/systemMessage.frontConfig.tsx:155
 msgid "Candidacy is open for <0/>"
-msgstr ""
+msgstr "Kandydatura jest otwarta na <0/>"
 
 #: src/components/_political/election/CandidateFormModal.tsx:87
 msgid "Candidate"
@@ -2386,11 +2386,11 @@ msgstr ""
 
 #: src/components/_political/region/RegionTooltip.tsx:68
 msgid "Capital"
-msgstr ""
+msgstr "Stolica"
 
 #: src/components/_political/region/RegionHeader.tsx:124
 msgid "Capital of"
-msgstr ""
+msgstr "Stolica państwa"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:91
 msgid "Captain"
@@ -2422,7 +2422,7 @@ msgstr "Skrzynki zawierają losowe przedmioty. Kliknij, aby otworzyć!"
 
 #: src/components/_user/user/UserRankingsPanel.tsx:104
 msgid "Cases opened"
-msgstr ""
+msgstr "Skrznie otwarte"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:92
 msgid "Catapult"
@@ -2456,16 +2456,16 @@ msgstr "Zmień podatek krajowy"
 #: src/components/_political/alliance/alliance.frontConfig.tsx:19
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:141
 msgid "Change color"
-msgstr ""
+msgstr "Zmień kolor"
 
 #. placeholder {0}: data.newScheme
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:149
 msgid "Change color to <0>{0}</0>"
-msgstr ""
+msgstr "Zmień kolor na <0>{0}</0>"
 
 #: src/components/_military/mu/MuSettings.tsx:89
 msgid "Change nationality"
-msgstr ""
+msgstr "Zmień narodowość"
 
 #: src/components/_economy/company/CompanyChangeItemFormModal.tsx:65
 #: src/components/_economy/company/CompanyChangeItemFormModal.tsx:85
@@ -2484,11 +2484,11 @@ msgstr "Zmień podatek"
 #. placeholder {0}: data.newScheme
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:158
 msgid "Change the alliance color scheme to <0>{0}</0> immediately on acceptance."
-msgstr ""
+msgstr "Zmień schemat kolorów sojuszu na <0>{0}</0> natychmiast po akceptacji."
 
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:142
 msgid "Change the color scheme of the alliance."
-msgstr ""
+msgstr "Zmień schemat kolorów sojuszu."
 
 #: src/components/_political/law/law.frontConfig.tsx:545
 msgid "Change the country color scheme"
@@ -2502,7 +2502,7 @@ msgstr "Zmień schemat kolorów kraju na <0>{0}</0> z akcentem mapy <1>{1}</1>"
 
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:121
 msgid "Change the name of the alliance."
-msgstr ""
+msgstr "Zmień nazwę sojuszu."
 
 #. placeholder {0}: law.data.taxType
 #: src/components/_political/law/law.frontConfig.tsx:76
@@ -2528,11 +2528,11 @@ msgstr "Naczelny Dowódca"
 
 #: src/components/_user/user/UserColorSchemeModal.tsx:11
 msgid "Choose Color Scheme"
-msgstr ""
+msgstr "Wybierz Schemat Koloru"
 
 #: src/components/_user/user/UserFontModal.tsx:11
 msgid "Choose Font"
-msgstr ""
+msgstr "Wybierz Czcionkę"
 
 #: src/components/_user/auth/WelcomeModal.tsx:145
 msgid "Choose your country"
@@ -2544,11 +2544,11 @@ msgstr "Wybierz stronę i kliknij, aby zadać <0>Obrażenia</0>! Kontynuuj atako
 
 #: src/components/_economy/inventory/CraftModal.tsx:374
 msgid "Choosing a specific item costs ×2 steel:"
-msgstr ""
+msgstr "Wybór konkretnego przedmiotu kosztuje x2 stali:"
 
 #: src/components/_user/user/UserHeader.tsx:322
 msgid "Citizen since"
-msgstr ""
+msgstr "Obywatel od"
 
 #: src/components/_political/country/CountryHeader.tsx:144
 #: src/components/_political/country/CountryHeader.tsx:191
@@ -2614,7 +2614,7 @@ msgstr "Kliknij, aby aplikować i zacznij zarabiać od razu."
 
 #: src/components/_economy/inventory/ConsumeItems.tsx:180
 msgid "Click to consume."
-msgstr ""
+msgstr "Kliknij, aby zjeść"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:98
 msgid "Click to reveal what's inside. You might get something valuable!"
@@ -2656,7 +2656,7 @@ msgstr "Schemat kolorów"
 
 #: src/components/_user/user/UserColorSchemeSelector.tsx:39
 msgid "Color scheme updated"
-msgstr ""
+msgstr "Schemat kolorów zaktualizowany"
 
 #: src/components/_user/user/UserColorSchemeSelector.tsx:64
 msgid "Color schemes are a Supporter Plan feature."
@@ -2673,7 +2673,7 @@ msgstr "Dowódca"
 
 #: src/components/_military/mu/MuHeader.tsx:98
 msgid "Commanders"
-msgstr ""
+msgstr "Dowódcy"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1988
 #: src/components/_user/notification/notification.frontConfig.tsx:2001
@@ -2686,7 +2686,7 @@ msgstr "Komodor"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:147
 msgid "Community"
-msgstr ""
+msgstr "Społeczność"
 
 #: src/components/_layout/LayoutMenu.tsx:174
 #: src/components/_user/user/MyAvatar.tsx:48
@@ -2735,7 +2735,7 @@ msgstr "Firma przemianowana!"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:149
 msgid "Company upgraded!"
-msgstr ""
+msgstr "Firma rozbudowana!"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:192
 msgid "Complete missions daily to earn XP and level up faster. Click to claim!"
@@ -2818,7 +2818,7 @@ msgstr "Wybory parlamentarne"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:57
 msgid "Congress Member"
-msgstr ""
+msgstr "Członek Kongresu"
 
 #: src/pages/country/[countryId]/government.tsx:72
 msgid "Congress members"
@@ -2834,7 +2834,7 @@ msgstr ""
 
 #: src/components/_user/auth/ConnectFromModal.tsx:355
 msgid "Connect with Google"
-msgstr ""
+msgstr "Polącz z Google"
 
 #: src/pages/country/[countryId]/regions.tsx:43
 msgid "Conquered regions"
@@ -2897,7 +2897,7 @@ msgstr ""
 
 #: src/components/_military/battle/BattleSideContractsModal.tsx:29
 msgid "Contracts & Auctions"
-msgstr ""
+msgstr "Kontrakty i Aukcje"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:554
 msgid "Contribute to constructions <0/> times"
