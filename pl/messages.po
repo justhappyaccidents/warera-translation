@@ -90,7 +90,7 @@ msgstr "Wymagane {0} aktywnych obywateli"
 #. placeholder {0}: formatKm(homeDistanceKm)
 #: src/components/_layout/LayoutMapUserMenu.tsx:151
 msgid "{0} away"
-msgstr "{0} stąd"
+msgstr "{0} od ciebie"
 
 #. placeholder {0}: data.userId && ( <UserUsername userId={data.userId} withAvatar withFlag /> )
 #: src/components/_user/notification/notification.frontConfig.tsx:488
@@ -176,7 +176,7 @@ msgstr "{nextLevelSkillPoints} Punkty Umiejętności"
 #: src/components/_layout/LayoutMapUserMenu.tsx:167
 #: src/components/_political/map/MapMenu.tsx:570
 msgid "{regionsAway, plural, one {# region away} other {# regions away}}"
-msgstr "{regionsAway, plural, one {# region stąd} other {# regionów stąd}}"
+msgstr "{regionsAway, plural, one {# region od ciebie} other {# regionów od ciebie}}"
 
 #: src/pages/events/index.tsx:97
 msgid "{registeredCount} countries registered"
@@ -4896,7 +4896,7 @@ msgstr "Celowe lub wielokrotne naruszenia niniejszych zasad skutkują trwałym z
 #: src/pages/user/[userId]/index.tsx:217
 #: src/pages/user/[userId]/inventory.tsx:31
 msgid "Inventory"
-msgstr "Zapasy"
+msgstr "Ekwipunek"
 
 #: src/components/_political/chat/ChatConversationsMenu.tsx:162
 msgid "Invitations"
