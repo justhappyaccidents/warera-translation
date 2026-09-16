@@ -176,7 +176,7 @@ msgstr "{draftPrestigeCount} punkt(y) prestiżu dla tej umiejętności ({savedPr
 
 #: src/components/_economy/inventory/DismantleModal.tsx:193
 msgid "{equippedCount, plural, one {# of them is equipped} other {# of them are equipped}}"
-msgstr "\"{equippedCount, plural, one {# z nich znajduje się w użyciu} other {# z nich znajdują się w użyciu}}\""
+msgstr "{equippedCount, plural, one {# z nich znajduje się w użyciu} other {# z nich znajdują się w użyciu}}""
 
 #: src/components/_user/user/Level.tsx:126
 msgid "{nextLevelSkillPoints} Skill Points"
