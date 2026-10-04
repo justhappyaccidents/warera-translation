@@ -5875,7 +5875,7 @@ msgstr "Awans wojskowy!"
 
 #: src/components/_user/user/SkillValue.tsx:221
 msgid "Military rank:"
-msgstr "Ranga wosjkowa:"
+msgstr "Ranga wojskowa:"
 
 #: src/components/_user/user/MilitaryRanksInfoModal.tsx:88
 msgid "Military Ranks"
@@ -9219,7 +9219,7 @@ msgstr "Daj napiwek artykułowi"
 
 #: src/pages/shop/index.tsx:147
 msgid "to"
-msgstr "do"
+msgstr "dla"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:246
 msgid "Token Name"
@@ -10066,7 +10066,7 @@ msgstr "Broń"
 #: src/components/_user/user/SkillBar.tsx:38
 #: src/components/_user/user/SkillValue.tsx:89
 msgid "Weapon:"
-msgstr "Wapen:"
+msgstr "Broń:"
 
 #: src/components/_economy/inventory/ItemGridFilters.tsx:127
 #: src/components/_user/user/WealthPanel.tsx:63
